@@ -1,0 +1,23 @@
+body{
+   background-image: url('https://img.freepik.com/free-vector/school-bus-children-isolated-cartoon-character-white-background_613284-2483.jpg?w=1060&t=st=1665512737~exp=1665513337~hmac=bfff040195c7a3a81431d5f04c359bb7fa30902622939d80b1f409730770fc58');
+   background-size:100%;
+}
+.bg{
+    background-image: url('https://img.freepik.com/free-vector/school-bus-children-isolated-cartoon-character-white-background_613284-2483.jpg?w=1060&t=st=1665512737~exp=1665513337~hmac=bfff040195c7a3a81431d5f04c359bb7fa30902622939d80b1f409730770fc58');
+    background-size:100%;
+}
+*{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    word-spacing: 0;
+}
+.div2{
+    width:50%;
+    height: 50%;
+}
+.di2{
+    width:100%;
+    height: 100%;
+    margin-left: 20px;
+}
